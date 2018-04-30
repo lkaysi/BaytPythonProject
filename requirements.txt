@@ -1,0 +1,3 @@
+Bayt_part1_scraping.ipynb is used in order to create an Excel file with the relevant information based on user inputs.
+ApartmentsPitt.xlsx is an Excel file generated using Bayt_part1_scraping.ipynb
+Bayt_part2_DataProcessing.ipynb uses ApartmentsPitt.xlsx in order to process the data and display results to user.
